@@ -1,0 +1,13 @@
+{% extends "esih/accueil.html" %}
+{% block title %}Ajout d'un programme{% endblock %}
+
+{% block content %}
+
+<form action='{% url "esih.views.fonclisterprog" %}' method="get">
+<fieldset> <legend> Liste des Programmes </legend> <ol>{% for prog in listeprogs %}<li> {{prog}} :::::::::
+<a href='{% url "esih.views.modifierprog" prog.id %}'> Modifier </a> :::::::::
+<a href='{% url "esih.views.supprimerprog" prog.id %}'> Supprimer </a>
+</li>{%endfor%}</ol>{{ form.as_p }}</fieldset>
+</form>
+
+{% endblock %}

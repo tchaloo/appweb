@@ -1,0 +1,19 @@
+{% extends "esih/accueil.html" %}
+{% block title %}Liste Cours{% endblock %}
+
+{% block content %}
+
+        <form action="{% url "esih.views.fonclistercours" %}" method="get">
+            <fieldset>
+                <legend> Liste des Cours </legend>
+                <ol>
+                    {%for cours in listecours%}
+                    <li> {{cours.Code}} :::::::::::::: {{cours.Cible}} ::::::::::::: {{cours.ProgCours}} :::::::::::::
+                         <a href='{% url "esih.views.modifiercours" cours.id %}'> Modifier </a> ::::::::::::::::: {{a}}
+                         <a href='{% url "esih.views.supprimercours" cours.id %}'> Supprimer </a>
+                    </li>
+                    {%endfor%}<ol>{{ form.as_p }}
+            </fieldset>
+        </form>
+
+{%endblock%}

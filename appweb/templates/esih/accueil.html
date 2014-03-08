@@ -1,0 +1,66 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8" />
+		<title>{% block title %}Master Page{% endblock %}</title>
+		
+		<link rel="stylesheet" href="{%static 'css/style.css' %}" type="text/css" /> <style>._css3m{display:none}</style>
+	</head>
+	
+	<body id='conteneur'>
+		<header>
+
+			<center>
+				<div id='entete'> {% block div %}<img src="{%static 'images/imgentete.jpg'%}"/><br />{%endblock%}</div>
+				<div>
+				<ul id="css3menu1" class="topmenu">
+
+       <li class="toplast"><a href="#" style="height:20px;line-height:20px;">Accueil-------------------------[+]</a>
+	<ul>
+        <li><a href="../">Accueil</a></li>
+		<li><a href="../login/">Login</a></li>
+		<li><a href="../logout/">Logout</a></li>
+        <li><a href="../inscription/"> New user </a></li>
+
+	</ul></li>
+
+	<li class="topfirst"><a class="pressed" href="#" style="height:20px;line-height:20px;"><span>Cours------------------------------[+]</span></a>
+	<ul>
+		<li><a href="../formcours/">Creer un nouveau cours</a></li>
+		<li><a href="../listecours/">Modifier un cours</a></li>
+		<li><a href="../listecours/">Supprimer un cours</a></li>
+		<li><a href="../listecours/">Afficher tous les cours</a></li>
+	</ul></li>
+	<li class="topmenu"><a class="pressed" href="#" style="height:20px;line-height:20px;">Programme----------------------[+]</a>
+	<ul>
+		<li><a href="../formprog/">Creer un nouveau programme</a></li>
+		<li><a href="../listeprog/">Modifier un programme</a></li>
+		<li><a href="../listeprog/">Supprimer un programme</a></li>
+		<li><a href="../listeprog/">Afficher tous les programme</a></li>
+	</ul></li>
+	<li class="toplast"><a href="#" style="height:20px;line-height:20px;">Professeur(s)----------------------[+]</a>
+	<ul>
+		<li><a href="../formprof/">Creer un nouveau professeur</a></li>
+		<li><a href="../listeprof/">Modifier un professeur</a></li>
+		<li><a href="../listeprof/">Supprimer un professeur</a></li>
+		<li><a href="../listeprof/">Afficher tous les professeur</a></li>
+	</ul></li>
+
+
+</ul><p class="_css3m"><a href="http://css3menu.com/">Creating Menus in CSS Css3Menu.com</a></p>
+
+				</div>
+			</center>
+
+		</header>
+		
+		<div id='corps'>
+		{% block content %} {% endblock %}
+			<br/><br/>
+		</div>
+
+	</body>
+	
+</html>

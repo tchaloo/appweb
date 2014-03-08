@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3be14d4-48ee-4f6f-8e4b-9fd9c9b99e5e" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\appweb\templates\exo\addition.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\appweb\templates\exo\design.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\appweb\templates\exo\formulaire.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\appweb\templates\exo\page1.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\appweb\templates\exo\tchaloo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\appweb\templates\exo\tchaloomini.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\appweb\templates\exo\tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\appweb\templates\fichiers\cvprof.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\appweb\templates\fichiers\esih\cvprof.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\fichiers\cvprof.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\fichiers\esih\cvprof.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\esih\accueil.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\esih\formcodecours.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\esih\formcodedesc.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\esih\formcodeprof.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\esih\formcodeprog.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\esih\formcodeprog.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\esih\formlog.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\esih\formlogin.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\esih\listercours.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\esih\listerprof.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\esih\listerprog.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\esih\modifiercours.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\esih\modifiercours2.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\esih\modifierprof.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\esih\modifierprof2.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\esih\modifierprog.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\esih\modifierprog2.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\esih\nondroit.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\exo\addition.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\exo\design.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\exo\formulaire.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\exo\page1.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\exo\tchaloo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\exo\tchaloomini.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Deroy\appweb\templates\exo\tpl.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/templates/esih/accueil.html" afterPath="$PROJECT_DIR$/appweb/templates/esih/accueil.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/templates/esih/formcodecours.html" afterPath="$PROJECT_DIR$/appweb/templates/esih/formcodecours.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/templates/esih/formcodedesc.html" afterPath="$PROJECT_DIR$/appweb/templates/esih/formcodedesc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/templates/esih/formcodeprof.html" afterPath="$PROJECT_DIR$/appweb/templates/esih/formcodeprof.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/templates/esih/formcodeprog.css" afterPath="$PROJECT_DIR$/appweb/templates/esih/formcodeprog.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/templates/esih/formcodeprog.html" afterPath="$PROJECT_DIR$/appweb/templates/esih/formcodeprog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/templates/esih/formlog.html" afterPath="$PROJECT_DIR$/appweb/templates/esih/formlog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/templates/esih/formlogin.html" afterPath="$PROJECT_DIR$/appweb/templates/esih/formlogin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/templates/esih/listercours.html" afterPath="$PROJECT_DIR$/appweb/templates/esih/listercours.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/templates/esih/listerprof.html" afterPath="$PROJECT_DIR$/appweb/templates/esih/listerprof.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/templates/esih/listerprog.html" afterPath="$PROJECT_DIR$/appweb/templates/esih/listerprog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esih/models.py" afterPath="$PROJECT_DIR$/esih/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/templates/esih/modifiercours.html" afterPath="$PROJECT_DIR$/appweb/templates/esih/modifiercours.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/templates/esih/modifiercours2.html" afterPath="$PROJECT_DIR$/appweb/templates/esih/modifiercours2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/templates/esih/modifierprof.html" afterPath="$PROJECT_DIR$/appweb/templates/esih/modifierprof.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/templates/esih/modifierprof2.html" afterPath="$PROJECT_DIR$/appweb/templates/esih/modifierprof2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/templates/esih/modifierprog.html" afterPath="$PROJECT_DIR$/appweb/templates/esih/modifierprog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/templates/esih/modifierprog2.html" afterPath="$PROJECT_DIR$/appweb/templates/esih/modifierprog2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/templates/esih/nondroit.html" afterPath="$PROJECT_DIR$/appweb/templates/esih/nondroit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/settings.py" afterPath="$PROJECT_DIR$/appweb/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/urls.py" afterPath="$PROJECT_DIR$/appweb/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/esih/views.py" afterPath="$PROJECT_DIR$/esih/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appweb/wsgi.py" afterPath="$PROJECT_DIR$/appweb/wsgi.py" />
+    </list>
+    <ignored path="appweb.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="appweb" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appweb/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="7.6" vertical-offset="190" max-vertical-offset="850">
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/esih/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="431" column="24" selection-start="15639" selection-end="15639" vertical-scroll-proportion="-31.2" vertical-offset="6547" max-vertical-offset="7463">
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="formlog.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appweb/templates/esih/formlog.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="7" selection-start="305" selection-end="305" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="272">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="formlogin.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appweb/templates/esih/formlogin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="323">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="accueil.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/appweb/templates/esih/accueil.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="57" selection-start="785" selection-end="785" vertical-scroll-proportion="0.22361359" vertical-offset="283" max-vertical-offset="1207">
+              <folding>
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#center#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#center#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#center#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/esih/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="121" column="60" selection-start="3643" selection-end="3643" vertical-scroll-proportion="-10.44" vertical-offset="1779" max-vertical-offset="2533">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="listercours.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appweb/templates/esih/listercours.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="52" selection-start="609" selection-end="609" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="408">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="listerprof.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appweb/templates/esih/listerprof.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="11" selection-start="473" selection-end="473" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="306">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nondroit.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appweb/templates/esih/nondroit.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="221">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/appweb/templates/esih/formcodecours.html" />
+        <option value="$PROJECT_DIR$/appweb/templates/esih/formcodedesc.html" />
+        <option value="$PROJECT_DIR$/appweb/templates/esih/formlogin.html" />
+        <option value="$PROJECT_DIR$/appweb/templates/esih/modifiercours.html" />
+        <option value="$PROJECT_DIR$/appweb/templates/esih/modifiercours2.html" />
+        <option value="$PROJECT_DIR$/appweb/templates/esih/modifierprof.html" />
+        <option value="$PROJECT_DIR$/appweb/templates/esih/modifierprof2.html" />
+        <option value="$PROJECT_DIR$/appweb/templates/esih/modifierprog.html" />
+        <option value="$PROJECT_DIR$/appweb/templates/esih/modifierprog2.html" />
+        <option value="$PROJECT_DIR$/appweb/templates/esih/listerprog.html" />
+        <option value="$PROJECT_DIR$/appweb/templates/esih/listerprof.html" />
+        <option value="$PROJECT_DIR$/appweb/templates/esih/listercours.html" />
+        <option value="$PROJECT_DIR$/esih/views.py" />
+        <option value="$PROJECT_DIR$/esih/forms.py" />
+        <option value="$PROJECT_DIR$/appweb/templates/esih/formlog.html" />
+        <option value="$PROJECT_DIR$/appweb/templates/esih/accueil.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="esih" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="esih" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="appweb" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="appweb" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="appweb" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="appweb" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="appweb" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="appweb" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3be14d4-48ee-4f6f-8e4b-9fd9c9b99e5e" name="Default" comment="" />
+      <created>1392929195728</created>
+      <updated>1392929195728</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1566618" sideWeight="0.67086613" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1566618" sideWeight="0.67086613" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/appweb/urls.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/appweb/templates/esih/listerprog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="11" selection-start="499" selection-end="499" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appweb/templates/esih/modifiercours.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="414" selection-end="414" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appweb/templates/esih/modifiercours2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appweb/templates/esih/modifierprof.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appweb/templates/esih/modifierprog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="12" selection-start="432" selection-end="432" vertical-scroll-proportion="0.44237918" vertical-offset="0" max-vertical-offset="538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appweb/templates/esih/modifierprof2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appweb/templates/esih/modifierprog2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="12" selection-start="428" selection-end="428" vertical-scroll-proportion="0.4257603" vertical-offset="0" max-vertical-offset="559">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esih/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="121" column="60" selection-start="3643" selection-end="3643" vertical-scroll-proportion="-10.44" vertical-offset="1779" max-vertical-offset="2533">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appweb/templates/esih/listercours.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="52" selection-start="609" selection-end="609" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appweb/templates/esih/listerprof.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="11" selection-start="473" selection-end="473" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appweb/templates/esih/nondroit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appweb/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="7.6" vertical-offset="190" max-vertical-offset="850">
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/esih/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="431" column="24" selection-start="15639" selection-end="15639" vertical-scroll-proportion="-31.2" vertical-offset="6547" max-vertical-offset="7463">
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appweb/templates/esih/formlogin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appweb/templates/esih/formlog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="7" selection-start="305" selection-end="305" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appweb/templates/esih/accueil.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="57" selection-start="785" selection-end="785" vertical-scroll-proportion="0.22361359" vertical-offset="283" max-vertical-offset="1207">
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#center#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#center#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#center#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -1,0 +1,13 @@
+{% extends "esih/accueil.html" %}
+{% block title %}Ajout d'un prof{% endblock %}
+
+{% block content %}
+
+<form action="{% url "esih.views.fonclisterprof" %}" method="get">
+<fieldset> <legend> Liste des Professeurs </legend> <ol>{%for prof in listeprofs%}<li> {{prof}}
+<a href='{% url "esih.views.modifierprof" prof.id %}'> Modifier </a>
+<a href='{% url "esih.views.supprimerprof" prof.id %}'> Supprimer </a>
+</li>{%endfor%}<ol> {{ form.as_p }}</fieldset>
+</form>
+
+{% endblock %}

@@ -1,0 +1,8 @@
+{% extends "esih/accueil.html" %}
+{% block title %}Acces denied{% endblock %}
+
+{% block content %}
+{% if nondroit %} <br/><center>Vous n'avez pas cette autorisation!! {% endif %}
+<br/>cliquer <a href="/../login/">ici</a> pour loguer a nouveau.</center>
+
+{% endblock %}

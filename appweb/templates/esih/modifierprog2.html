@@ -1,0 +1,15 @@
+{% extends "esih/accueil.html" %}
+{% block title %}Modifier Programme{% endblock %}
+
+{% block content %}
+
+<form action='/modifierprog2/{{prog.id}}/' method="post"> {%csrf_token %}
+<fieldset> <legend> Modifier Programme </legend> {{form.as_p}} </fieldset>
+<input type="submit" value="Modifier" />
+</form>
+
+{% if modifprog %} Le programme
+						a été modifié avec succès ! </br>
+						NOM: {{ nomprog }}  {% endif %}
+
+{%endblock%}

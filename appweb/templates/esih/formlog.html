@@ -1,0 +1,11 @@
+{% extends "esih/accueil.html" %}
+{% block title %}Ajout d'un prof{% endblock %}
+
+{% block content %}
+
+<form action='{% url "esih.views.fonclog" %}' method="post"> {%csrf_token %}
+<fieldset width="30%"> <legend>Login</legend> {{form.as_p}} <br/>
+</fieldset>
+<input type="submit" value="Valider" />
+</form>
+{%endblock%}

@@ -1,0 +1,15 @@
+{% extends "esih/accueil.html" %}
+{% block title %}Ajout d'un prof{% endblock %}
+
+{% block content %}
+
+<form action='{% url "esih.views.foncformcodeprog" %}' method="post"> {%csrf_token %}
+<fieldset width="30%"> <legend> Creer Programme</legend> {{form.as_p}}</fieldset>
+<input type="submit" value="Valider" />
+</form>
+
+{% if envoicodeprog %} Le programme
+						a été créé avec succès ! </br>
+						NOM: {{ nomprog }}  {% endif %}
+
+{% endblock %}

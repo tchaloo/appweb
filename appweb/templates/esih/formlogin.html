@@ -1,0 +1,14 @@
+
+
+{% extends "esih/accueil.html" %}
+{% block title %}Inscription User{% endblock %}
+
+{% block content %}
+<form action='{% url "esih.views.fonclogin" %}' method="post"> {%csrf_token %}
+<fieldset width="30%"> <legend>Formulaire d'Inscription</legend> {{form.as_p}}</fieldset>
+<input type="submit" value="Valider" />
+</form>
+
+{% if envoilogin %} Vous avez reussiiiiiiiiiiiiiiiiiiii!!!!
+					Username: {{username}} ! {% endif %}
+{% endblock %}
